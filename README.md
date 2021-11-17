@@ -1,2 +1,2 @@
 # Photopea-Desktop-App
-Photopea bundled into a portable desktop app
+Offline Photopea bundled into a portable desktop app
