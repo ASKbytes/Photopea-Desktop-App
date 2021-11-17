@@ -12,6 +12,6 @@ For Windows: [Photopea-win32-x64.7z](https://mega.nz/file/Nbw2gRiR#uD-wZMyK2J3R8
 After downloading the above, extract the file and run Photopea.exe. As simple as that.
 
 # Screenshots
-https://github.com/NFXT/Photopea-Desktop-App/blob/main/photopea-1.png
-https://github.com/NFXT/Photopea-Desktop-App/blob/main/photopea-2.png?raw=true
+(https://github.com/NFXT/Photopea-Desktop-App/blob/main/photopea-1.png?raw=true)
+(https://github.com/NFXT/Photopea-Desktop-App/blob/main/photopea-2.png?raw=true)
 
